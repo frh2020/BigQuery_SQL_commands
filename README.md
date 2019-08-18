@@ -1,4 +1,4 @@
-# BigQuery_SQL_commands
+# SQL queries in BigQuery
 Here are some basic SQL commands and examples in BigQuery called by python code
 example 1 explore data scheme, table structures in a dataset
 example 2 shows basic selection of data under conditions and join two tables.
