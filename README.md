@@ -1,5 +1,5 @@
 # SQL queries in BigQuery
-Here are some basic SQL commands and examples in BigQuery called by python codes.
+Here are some basic SQL commands and examples in BigQuery called by python codes in jupyter notebook.
 
 example 1 explore data scheme, table structures in a dataset
 
